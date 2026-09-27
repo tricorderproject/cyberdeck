@@ -1,0 +1,19 @@
+Partlist
+
+Exported	from	spectrometer-breakout-1c2.sch	at	6/21/25	4:54	PM
+
+EAGLE	Version	9.6.2	Copyright	(c)	1988-2020	Autodesk,	Inc.
+
+Assembly	variant:	
+
+Part	Value	Device	Package	Library	Sheet
+
+C1	0.022uF	CAP-0603	0603	SparkFun-Capacitors	1
+C2	0.022uF	CAP-0603	0603	SparkFun-Capacitors	1
+C3	4.7uF	CAP-0603	0603	SparkFun-Capacitors	1
+J1	CON-SM08B-SRSS-TB	CON-SM08B-SRSS-TB	CON-SM08B-SRSS-TB	notes1a	1
+L1	100uH	INDUCTORDNP	0603	SparkFun-Coils	1
+R1	1.7k	(prec.)	RESISTOR0603	0603	SparkFun-Resistors	1
+R2	3.3k	(prec.)	RESISTOR0603	0603	SparkFun-Resistors	1
+U1	OPA344NA/250	OPA344NA/250	SOT3-5	notes1a	1
+U2	C12666MA	C12666MA	C12666MA	notes1a	1

@@ -1,0 +1,6 @@
+pyserial
+numpy
+opencv-python
+pysenxor-lite
+sounddevice
+pygame

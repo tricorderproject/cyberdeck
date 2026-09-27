@@ -1,0 +1,23 @@
+Partlist
+
+Exported from clockwork-backpack-1a4.sch at 1/8/26 11:38 AM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value             Device                Package           Library             Sheet
+
+C1       1uF               CAP-0603              0603              SparkFun-Capacitors 1
+C2       1uF               CAP-0603              0603              SparkFun-Capacitors 1
+C3       100uF             CAP-1206              1206              SparkFun-Capacitors 1
+C4       100uF             CAP-1206              1206              SparkFun-Capacitors 1
+C5       100uF             CAP-1206              1206              SparkFun-Capacitors 1
+C6       100uF             CAP-1206              1206              SparkFun-Capacitors 1
+CN1      CON-SM08B-SRSS-TB CON-SM08B-SRSS-TB     CON-SM08B-SRSS-TB notes1a             1
+CN2      CON-SM08B-SRSS-TB CON-SM08B-SRSS-TB     CON-SM08B-SRSS-TB notes1a             1
+CN3      QWIIC_RIGHT_ANGLE QWIIC_CONNECTORJS-1MM JST04_1MM_RA      SparkFun-Connectors 1
+CN4                        CONN_05LOCK           1X05_LOCK         SparkFun-Connectors 1
+CN5                        CONN_05LOCK           1X05_LOCK         SparkFun-Connectors 1
+U1       TXS0108EPWR       TXS0108EPWR           TSSOP-20          notes1a             1
+U2       FEATHERWING_NODIM FEATHERWING_NODIM     FEATHERWING_DIM   notes1a             1

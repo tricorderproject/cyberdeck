@@ -1,0 +1,22 @@
+Partlist
+
+Exported	from	atmospheric-1b1.sch	at	6/21/25	4:54	PM
+
+EAGLE	Version	9.6.2	Copyright	(c)	1988-2020	Autodesk,	Inc.
+
+Assembly	variant:	
+
+Part	Value	Device	Package	Library	Sheet
+
+C1	1uF	CAP-0603	0603	SparkFun-Capacitors	1
+C2	1uF	CAP-0603	0603	SparkFun-Capacitors	1
+C3	1uF	CAP-0603	0603	SparkFun-Capacitors	1
+C4	1uF	CAP-0603	0603	SparkFun-Capacitors	1
+J1	QWIIC_RIGHT_ANGLE	QWIIC_CONNECTORJS-1MM	JST04_1MM_RA	SparkFun-Connectors	1
+J2	QWIIC_RIGHT_ANGLE	QWIIC_CONNECTORJS-1MM	JST04_1MM_RA	SparkFun-Connectors	1
+JP1	JUMPER-SMT_3_1-NC_TRACE_SILK	JUMPER-SMT_3_1-NC_TRACE_SILK	SMT-JUMPER_3_1-NC_TRACE_SILK	SparkFun-Jumpers	1
+R1	10k	RESISTOR0603	0603	SparkFun-Resistors	1
+R2	10k	RESISTOR0603	0603	SparkFun-Resistors	1
+R3	10k	RESISTOR0603	0603	SparkFun-Resistors	1
+U1	BME680	BME680-LGA	LGA3.0X3.0	SparkFun-Sensors	1
+U2	SCD4X	SCD4X	SCD4X	notes1a	1
